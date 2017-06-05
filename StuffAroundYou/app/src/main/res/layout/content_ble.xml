@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ict.mobi2.BleActivity"
+    tools:showIn="@layout/activity_ble">
+
+    <ListView
+        android:id="@+id/devices_list"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/device_check"
+        android:layout_marginBottom="25dp">
+
+    </ListView>
+
+    <TextView
+        android:id="@+id/device_check"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="25dp"
+        android:text="Check if device supports BLE -->"
+        android:textSize="21sp" />
+
+</RelativeLayout>

@@ -1,0 +1,87 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ble">Scan for BLE </string>
+    <string name="title_activity_device_control">DeviceControlActivity</string>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="label_data">Data:</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_state">State:</string>
+    <string name="no_data">No data</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="title_devices">BLE Device Scan</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_service">Unknown service</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
+    <string name="title_activity_range">RangeActivity</string>
+    <string name="title_activity_nfc">NfcActivity</string>
+
+    <string name="app_name">Beam</string>
+    <string name="info">Ensure that Android Beam is enabled</string>
+    <string name="menu_settings">Android Beam settings</string>
+    <string name="title_activity_place">PlaceActivity</string>
+
+    <!-- VIA HORSENS -->
+    <string name="via_name">VIA University College</string>
+    <string name="via_established">Chr M Østergaards Vej 4, 8700 Horsens</string>
+    <string name="via_preview">VIA University College is one of eight new regional organizations of different
+        study sites in Denmark (Danish: professionshøjskoler) offering bachelor courses of all kinds in all of
+        Central Denmark Region.
+
+        \n\nIt was established in January 2008. From January 2008 all VIA medium higher education
+        in the Central Region, which previously came under CVU\'erne (Center for Higher Education).
+
+        \n\nVIA University College is Denmark\'s third largest educational institution after Copenhagen University and
+        Aarhus University. VIA has approximately 2,000 employees and 20,000 students. VIA operates within the pedagogical and social
+        professional, the health professional and the technical-commercial area.</string>
+
+    <!-- CASA ARENA HORSENS -->
+    <string name="casa_name">CASA Arena Horsens</string>
+    <string name="casa_established">Langmarksvej 59, 8700 Horsens</string>
+    <string name="casa_preview">CASA Arena Horsens (previously Forum Horsens Arena and Horsens Idrætspark) is a Danish football stadium
+        and the home ground of AC Horsens. It has a capacity between 10,400 of which 7,500 is seated.
+
+        \n\nThe Rolling Stones were the first band to play a concert at the stadium.
+
+        \n\nMadonna\'s concert in 2006 became the biggest concert on Horsens, with 85,232 fans in attendance.
+
+        \n\nRecent concerts at the ground have included AC/DC in 2010 on the Black Ice World Tour, U2 in 2010 on the 360 Tour, and Bon Jovi as part
+        of the 2011 European leg of The Circle Tour.
+
+        \n\nThe company behind the reconstruction of Casa Arena Horsens is 3XN, who is also the company behind The Lighthouse in Århus, amongst many
+        other large projects. In 2015 the Arena will become the third venue to host the Speedway Grand Prix of Denmark which had been previously held
+        at the Vojens Speedway Center (1995-2002) and the Parken Stadium in Copenhagen (2003-2014). Moreover, the British-Irish boyband One Direction
+        will visit the Arena on 16 June 2015, as a part of their On the Road Again Tour</string>
+
+    <!-- INDUSTRIAL MUSEUM HORSENS -->
+    <string name="art_name">Horsens Art Gallery</string>
+    <string name="art_established">Carolinelundsvej 2, 8700 Horsens</string>
+    <string name="art_preview">Welcome to Horsens Art Museum
+        \n\nHorsens Art Museum is a highly profiled museum of Danish contemporary art.
+        \n\nAmong a lot of other things, the museum has the biggest collection of paintings, drawings and graphic works by the famous Danish artist
+        Michael Kvium, who was born and raised in Horsens.
+        \n\nWith its location in the beautiful park Lunden (the Grove), Horsens Art Museum is always worth a visit.
+        The building has been extended twice:  in 1992, on the initiative of the local newspaper Horsens Folkeblad. And again, in 2006, with financial
+        contribution from the private foundation of Inge and Asker Larsen.
+        \n\nHorsens Art Museum is build as a \‘White Cube\’ museum: Light, broadness, simplicity and harmony characterize the architecture.
+    </string>
+
+    <!-- PRISON HORSENS -->
+    <string name="pri_name">Horsens Statsfængsel</string>
+    <string name="pri_established">Frodesdalsvej 3, 8700 Horsens</string>
+    <string name="pri_preview">The present Horsens Statsfængsel (Horsens State Prison), formerly called Horsens Straffeanstalt (Horsens Correctional
+        Institution), was commissioned in 1853. Horsens was intended for prisoners serving long prison sentences. The prisoners spend the nights in
+        their cells, during the day prisoners work in the prison\'s "workshops" and during the evenings, they move freely in the wards. The prison closed
+        in 2006 and prisoners were moved to The State Prison of East Jutland at Enner Mark, west of Horsens. Today, the prison works as a concert venue,
+        where Metallica has played.
+    </string>
+
+</resources>
